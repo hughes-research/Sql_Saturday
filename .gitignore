@@ -1,3 +1,5 @@
 
 .DS_Store
 notebooks/.env
+*/.env
+.env
