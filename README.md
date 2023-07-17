@@ -1,2 +1,2 @@
-# Sql_Saturday
+# Sql Saturday
 Sql Saturday Slides and Demo 
